@@ -2,6 +2,8 @@ import React from "react";
 
 export default function Checkout() {
     return(
-        <>CHECKOUT</>
+        <div>
+            <title>Checkout</title>
+        </div>
     )
 }

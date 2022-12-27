@@ -2,6 +2,8 @@ import React from "react";
 
 export default function Confirm() {
     return(
-        <>CONFIRM</>
+        <><div>
+        <title>Confirm</title>
+    </div></>
     )
 }

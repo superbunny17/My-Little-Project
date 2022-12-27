@@ -5,9 +5,19 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Skin Care & Beauty Products</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
+      <head>
+        <div>
+          
+        </div>
+      </head>
+
+      <body>
+
+      </body>
 
       <main>
         <h1 className={styles.title}>

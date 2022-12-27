@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Payment() {
     return(
-        <>
-            PAYMENT
-        </>
+        <div>
+            <title>Payment</title>
+        </div>
     )
 }
